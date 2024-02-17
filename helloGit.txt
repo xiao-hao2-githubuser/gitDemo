@@ -1,3 +1,2 @@
 Hello Git!!!!!!!!!!
-change txt
-demo 分支合并冲突
+change txt  master分支合并冲突Demo
